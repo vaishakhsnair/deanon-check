@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 250px;
+  }
+  
+  h1 {
+    font-size: 16px;
+  }
+  
+  #status {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  #details {
+    margin-top: 10px;
+    color: #ff0000; /* Red for alerts */
+  }
+  
+  strong {
+    color: #000; /* Black for emphasis */
+  }
+  
